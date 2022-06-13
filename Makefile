@@ -1,4 +1,4 @@
 subir:
 	git add .
 	git commit -m "$m"
-	git push origen $b
+	git push origen main
